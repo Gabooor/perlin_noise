@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3c09abec65c04147b3dc1ebcddcbcfd, type: 3}
+  m_Name: Default Texture
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  layers:
+  - texture: {fileID: 2800000, guid: 9ae47f1c48e139c4cbceb165092556b6, type: 3}
+    tint: {r: 0.017205715, g: 0, b: 1, a: 1}
+    tintStrength: 0
+    startHeight: 0
+    blendStrength: 0
+    textureScale: 10
+  - texture: {fileID: 2800000, guid: 9ae47f1c48e139c4cbceb165092556b6, type: 3}
+    tint: {r: 0.3915094, g: 0.6341708, b: 1, a: 1}
+    tintStrength: 0.512
+    startHeight: 0.259
+    blendStrength: 0.006
+    textureScale: 10
+  - texture: {fileID: 2800000, guid: 79294d617712955408ec68e8d1d5fc41, type: 3}
+    tint: {r: 1, g: 1, b: 0, a: 1}
+    tintStrength: 0.2
+    startHeight: 0.2625
+    blendStrength: 0.0025
+    textureScale: 20
+  - texture: {fileID: 2800000, guid: 466320b6bf366854d9b1578db4ccffcf, type: 3}
+    tint: {r: 0, g: 1, b: 0, a: 1}
+    tintStrength: 0
+    startHeight: 0.28
+    blendStrength: 0.03
+    textureScale: 7
+  - texture: {fileID: 2800000, guid: 8f954483476186e4ba7a8677d355a6a0, type: 3}
+    tint: {r: 0.067441985, g: 0.5849056, b: 0.0027589954, a: 1}
+    tintStrength: 0
+    startHeight: 0.477
+    blendStrength: 0.2
+    textureScale: 7.5
+  - texture: {fileID: 2800000, guid: e558fdfb5542a984e9a8f54368216e44, type: 3}
+    tint: {r: 0.5377358, g: 0.28662333, b: 0.28662333, a: 1}
+    tintStrength: 0.526
+    startHeight: 0.46
+    blendStrength: 0.04
+    textureScale: 9
+  - texture: {fileID: 2800000, guid: 064c513a6fd071c4a877ab4b0b8f8508, type: 3}
+    tint: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 1}
+    tintStrength: 0
+    startHeight: 0.51
+    blendStrength: 0.1
+    textureScale: 9
+  - texture: {fileID: 2800000, guid: 59ec0647d579d3240bc53a8c29f65812, type: 3}
+    tint: {r: 1, g: 1, b: 1, a: 1}
+    tintStrength: 0
+    startHeight: 0.584
+    blendStrength: 0.15
+    textureScale: 5
